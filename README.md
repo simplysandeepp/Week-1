@@ -1,5 +1,6 @@
 # Week-1
-# 🌍 Air Quality Index (AIQ) Prediction Project  
+# 🌍 Air Quality Index (AIQ) Prediction Project 
+## Project: Environmental Monitoring & Pollution Control
 
 ## 📌 Internship Information  
 **Intern Name:** Sandeep Prajapati  
