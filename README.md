@@ -1,6 +1,7 @@
 # Oil Spill Detection using Deep Learning
 
 A lightweight U-Net based semantic segmentation model optimized for CPU training to detect oil spills in satellite/aerial imagery.
+By: Sandeep Prajapati
 
 ## 📋 Table of Contents
 - [Overview](#overview)
